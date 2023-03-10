@@ -19,7 +19,7 @@ const Layout = ({ children, title = "This is the default title" }: Props) => (
       <meta property="og:title" content={`${title} | Themeptation`} />
       <meta
         property="og:description"
-        content="Slioth - is a One Page Saas Lading Page build with Tailwind CSS and NextJs created by themeptation"
+        content="TEST TEST TEST "
       />
       <meta property="og:url" content="https://slioth.themepttation.net/" />
       <meta property="og:type" content="website" />
